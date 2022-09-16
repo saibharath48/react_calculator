@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/saibharath48/react_calculator.git/static/css/main.df56fb24.css",
+    "main.js": "/saibharath48/react_calculator.git/static/js/main.35ff8bfe.js",
+    "static/js/787.437a8f00.chunk.js": "/saibharath48/react_calculator.git/static/js/787.437a8f00.chunk.js",
+    "index.html": "/saibharath48/react_calculator.git/index.html",
+    "main.df56fb24.css.map": "/saibharath48/react_calculator.git/static/css/main.df56fb24.css.map",
+    "main.35ff8bfe.js.map": "/saibharath48/react_calculator.git/static/js/main.35ff8bfe.js.map",
+    "787.437a8f00.chunk.js.map": "/saibharath48/react_calculator.git/static/js/787.437a8f00.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df56fb24.css",
+    "static/js/main.35ff8bfe.js"
+  ]
+}
